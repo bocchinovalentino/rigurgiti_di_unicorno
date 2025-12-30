@@ -12,6 +12,8 @@
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,calc,angles,quotes}
 \usepackage{tikz-3dplot}
+%Copertine
+\usepackage{pdfpages}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -113,6 +115,22 @@ enumitem
 \end_header
 
 \begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+includepdf[pages=1]{copertinaTeoria.pdf}
+\end_layout
+
+\end_inset
+
+
+\end_layout
 
 \begin_layout Title
 
@@ -34235,6 +34253,22 @@ Supponiamo di voler determinare il resto della divisione
 
 \begin_layout Standard
 \begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+includepdf[pages=1]{copertinaEsercizi.pdf}
+\end_layout
+
 \end_inset
 
 
