@@ -867,7 +867,7 @@ Differenza di due cubi
 \end_inset
 
 
-\begin_inset Formula $A^{3}-B^{3}=(A-B)(A^{2}+AB+B^{2})$
+\begin_inset Formula $A^{3}-B^{3}=(A+B)(A^{2}+AB+B^{2})$
 \end_inset
 
 
@@ -1391,7 +1391,7 @@ Potenze
 \begin_inset Text
 
 \begin_layout Plain Layout
-\begin_inset Formula $a^{\frac{m}{n}}\cdot a^{\frac{p}{q}}=a^{\frac{m}{n}+\frac{p}{q}}$
+\begin_inset Formula $a^{\frac{m}{n}}\cdot a^{\frac{p}{q}}=a^{\frac{m}{n}\cdot\frac{p}{q}}$
 \end_inset
 
 
@@ -1509,7 +1509,7 @@ Potenze
 \begin_inset Text
 
 \begin_layout Plain Layout
-\begin_inset Formula $a^{-b}=\dfrac{1}{a^{b}}$
+\begin_inset Formula $a^{-b}=\dfrac{b}{a^{b}}$
 \end_inset
 
 
