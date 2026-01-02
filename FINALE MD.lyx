@@ -6312,11 +6312,11 @@ iniettiva
 se e soltanto se
 \emph default
  
-\begin_inset Formula $f^{-1}(b)\neq\textrm{Ø}$
+\begin_inset Formula $|f^{-1}(b)|\leq1$
 \end_inset
 
  per ogni 
-\begin_inset Formula $b\in B$
+\begin_inset Formula $b$
 \end_inset
 
 
@@ -6331,11 +6331,11 @@ suriettiva
 se e soltanto se
 \emph default
  
-\begin_inset Formula $|f^{-1}(b)|\leq1$
+\begin_inset Formula $f^{-1}(b)\neq\textrm{Ø}$
 \end_inset
 
  per ogni 
-\begin_inset Formula $b$
+\begin_inset Formula $b\in B$
 \end_inset
 
 

@@ -34258,6 +34258,22 @@ Supponiamo di voler determinare il resto della divisione
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+includepdf[pages=1]{copertinaEsercizi.pdf}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part
 Esercizi
 \end_layout
