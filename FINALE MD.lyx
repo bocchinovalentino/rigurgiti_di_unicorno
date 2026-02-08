@@ -733,7 +733,7 @@ Quadrato di un trinomio con differenza
 \end_inset
 
 
-\begin_inset Formula $(A-B+C)^{2}=A^{2}+B^{2}+C^{2}-2AB+2AC+2BC$
+\begin_inset Formula $(A-B+C)^{2}=A^{2}+B^{2}+C^{2}-2AB+2AC-2BC$
 \end_inset
 
 
